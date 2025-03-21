@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background Circle -->
+  <circle cx="64" cy="64" r="60" fill="#4285f4"/>
+  
+  <!-- Bookmark Shape -->
+  <path d="M40,30 L88,30 C92,30 96,34 96,38 L96,98 L64,82 L32,98 L32,38 C32,34 36,30 40,30 Z" 
+        fill="white" stroke="#3367d6" stroke-width="2"/>
+  
+  <!-- Link Icon -->
+  <circle cx="64" cy="55" r="12" fill="#3367d6"/>
+  <path d="M58,55 L70,55 M64,49 L64,61" stroke="white" stroke-width="4" stroke-linecap="round"/>
+</svg>
